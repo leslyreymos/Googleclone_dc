@@ -15,4 +15,4 @@ Se construyó una interfaz idéntica a la actual de Google, la cual estuvo divid
 3. Sección Footer
 
 ## Objetivos 🔽
-✨ Apredizaje ✨ Práctica ✨ Introducción a HTML y CSS así como sus elementos y propiedades ✨
+✨ Aprendizaje ✨ Práctica ✨ Introducción a HTML y CSS así como sus elementos y propiedades ✨
